@@ -15,7 +15,7 @@ var kpp_id = "0356327567" // ИНН
 
 // Права
 var rights_valid_until = "02.04.2028" // Права "Дійсні до"
-var rights_categories = "A, C, D, T" // Права "Категорії"
+var rights_categories = "A, B" // Права "Категорії"
 var rights_tsc = "ТСЦ 8631" // Права "Видав
 var rights_id = "KBE968639" // Права "Серія та номер""
 
